@@ -7,13 +7,13 @@ header_menu: true
 ---
 
 
-Explore Our Simple yet Flavorful Menu:
+Explore Our Simple yet Flavorful Menu, or alternatively, [download our menu in PDF](menu/Eatermy-Oct-2023.pdf)😉
 
 ---
 
 ### 70°C Series
 #### Chicken Breast Packs
-**via FoodPanda**
+**via FoodPanda 🚴**
 - GOCHUJIANG - RM12
 - HERBS - RM12
 - HONEY LEMON - RM12
@@ -23,7 +23,7 @@ Explore Our Simple yet Flavorful Menu:
 ---
 ### Bundles
 #### Frozen Packs for storage
-**via Whatsapp**
+**via Whatsapp 🚚**
 - 5 PACKS - RM55
 - 10 PACKS - RM100
 - 20 PACKS - RM180
