@@ -7,7 +7,7 @@ header_menu: true
 ---
 
 
-Explore Our Simple yet Flavorful Menu, or alternatively, [download our menu in PDF](menu/Eatermy-Oct-2023.pdf)😉
+Explore Our Simple yet Flavorful Menu, or alternatively, [download the full menu in PDF](menu/Eatermy-Oct-2023.pdf)😉
 
 ---
 
